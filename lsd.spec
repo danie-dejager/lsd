@@ -31,3 +31,5 @@ install -m 755 target/release/%{name} %{buildroot}/%{_bindir}/%{name}
 %files
 %defattr(-,root,root,-)
 %{_bindir}/%{name}
+%license LICENSE*
+%doc README*
