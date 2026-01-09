@@ -1,6 +1,6 @@
 Name:           lsd
 Version:        1.2.0
-Release:        2%{?dist}
+Release:        3%{?dist}
 Summary:        The next gen ls command
 
 License:        MIT
