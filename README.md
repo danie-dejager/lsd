@@ -1,16 +1,6 @@
 <div align="center">
    <sup>Special thanks to:</sup>
    <br>
-   <br>
-   <a href="https://go.warp.dev/lsd">
-      <img alt="Warp sponsorship" width="400" src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-02.png">
-   </a>
-
-### [Warp, built for coding with multiple AI agents](https://go.warp.dev/lsd)
-[Available for MacOS, Linux, & Windows](https://go.warp.dev/lsd)<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
    <sup>Maintained with ❤️ + 🤖 by Pochi</sup>
    <br>
    <br>
@@ -126,7 +116,7 @@ Note that it is _not_ required to have all three of the files present in order f
 
 ### Config file locations
 > [!TIP]
-> You can also instruct `lsd` to look for configuration files in a custom location of your choosing by using the following command: `lsd --config-file [YOUR_CUSTOM_PATH]`. This is particularly useful when testing a configuration changes before commiting to them.
+> You can also instruct `lsd` to look for configuration files in a custom location of your choosing by using the following command: `lsd --config-file [YOUR_CUSTOM_PATH]`. This is particularly useful when testing a configuration changes before committing to them.
 
 #### Unix (Linux, Mac, etc...)
 On non-Windows systems `lsd` follows the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html), thus `lsd` will look for configuration files any of the following locations:
